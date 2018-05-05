@@ -1,10 +1,12 @@
 /*
   	ISYS 320
-  	Name(s):
+  	Name(s): Anthony Quehl
   	Date: 
 */
 
 // 1. Your predicted output 
+//    4
+//    2
 
 
 
