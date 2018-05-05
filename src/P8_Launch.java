@@ -1,10 +1,11 @@
 /*
   	ISYS 320
-  	Name(s):
+  	Name(s): Anthony Quehl
   	Date: 
 */
 
-// 1. Your predicted output 
+// 1. Your predicted output
+//    T-minus 5, 4, 3, 2, 1, Blastoff!
 
 
 
